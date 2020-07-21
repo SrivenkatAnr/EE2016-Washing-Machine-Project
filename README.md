@@ -1,0 +1,2 @@
+# EE2016-Washing-Machine-Project
+This repository contains the code and the report for the final project of the EE2016 (Microprocessor Theory & Lab) course done during Jul-Nov 2019. The project involved implementing a fully functional controller for a washing machine using the *AVR ATMEL ATmega8* microcontroller. A small demonstration of the project can be found [here](https://drive.google.com/file/d/1_DfUmkOichvVzVCwFdtpW9M7bJfMWhnw/view?usp=sharing) and [here](https://www.youtube.com/watch?v=F-Ut6ZEmGT4).
